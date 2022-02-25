@@ -1,5 +1,4 @@
-					##BANK MANAGEMENT
-
+#BANK MANAGEMENT
 The following project is a bank management system . The project makes it easy for both the staff of 
 the bank and also for the clients for management and to manage their accounts respectively. 
 
