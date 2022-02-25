@@ -26,5 +26,5 @@ consumption.
 1. Run the main.py file.
 
 2. The default admin credentials are :
-> username : admin
-> password : admin
+- username : admin
+- password : admin
