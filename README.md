@@ -7,11 +7,11 @@ The following project is a bank management system . The project makes it easy fo
 the bank for management and also for the clients to manage their accounts.
 
 Features for client include:
-- withdraw/deposit 
-- transferring money 
-- viewing balance 
-- editing account details
-- closing account
+- Withdraw/deposit 
+- Transferring money 
+- Viewing balance 
+- Editing account details
+- Closing account
 
 For admins : 
 - Client list
