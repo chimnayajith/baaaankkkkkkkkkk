@@ -1,6 +1,5 @@
 <img width="100" height="100" align="left" style="float: left; margin: 0 10px 0 0;" alt="BANK" src="https://media.discordapp.net/attachments/899195708626849805/946661932948148234/bank.png?width=490&height=490">
 <h1>BANK MANAGEMENT</h1>
-Download all the files into a single folder and run the `main.py` file.
  <br><br>
  
 The following project is a bank management system . The project makes it easy for both the staff of 
